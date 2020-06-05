@@ -1,6 +1,6 @@
 " Vim syntax file
 " Language:	NMTRAN
-" Maintainer:	Vitkor Rognås <viktor.rognas@farmbio.uu.se>
+" Maintainer:	Viktor Rognås <viktor.rognas@farmbio.uu.se>
 " Credits:	Chayan Acharya <chayan.acharya@pharmetheus.com>
 "		This version is a rewrite by Viktor Rognås.
 
